@@ -1,5 +1,5 @@
 # kandikrash_react
-Candy Crash alike in react
+Candy Crush alike in react
 
 
 Based on Candy Crush in React By 
